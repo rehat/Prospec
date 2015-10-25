@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "PhotoPass"
-  s.version          = "3.0"
+  s.version          = "2.0.0"
   s.summary          = "PhotoPass iOS for WDW, DLR, etc."
   s.homepage         = "https://github.disney.com/wdpro-mobile/photopass-ios"
   s.author           = { "Morgan, Justin" => "justin.x.morgan.-nd@disney.com", "Taher, Ali" => "ali.x.taher.-nd@disney.com", "Birch, Dennis" => "dennis.x.birch.-nd@disney.com", "Fisher, Craig" => "craig.x.fisher.-nd@disney.com", "Torres, Hawer" => "hawer.x.torres.-nd@disney.com", "Kwan, Andres" => "andres.x.kwan.-nd@disney.com", "Chen, Joseph" => "joseph.chen@disney.com" }
